@@ -1,0 +1,136 @@
+Liquids: in ml
+Lemon Juice
+Orange Juice
+Lime Juice
+Water
+Whole milk
+Almond mil
+Milk substitute
+Sparkling Water
+Fanta
+Coke
+Apple cider vinegar
+Rose water
+Yogurt
+Coffee
+Espresso
+Greek yogurt
+Amaretto
+Bailey's
+Rum
+Coconut milk
+Apple sauce
+Buttermilk
+Sour cream
+Cointreau
+White wine
+Red wine
+Beetroot juice
+
+Leavening agents: in teaspoons
+Baking powder
+Baking soda
+
+
+Fat source: in gramms
+Neutral oil
+Sunflower oil
+Olive oil
+Oil
+Butter
+Vegetable oil
+Margarine
+Cream cheese
+Heavy Cream
+Whipped Cream
+Almond paste
+Coconut oil
+Walnut oil
+
+Sweeteners in gramms
+Vanilla sugar
+Sugar
+Confectioner’s sugar
+Powdered sugar
+Brown sugar
+Cane sugar
+Caster sugar
+Honey
+Marzipan
+Golden syrup
+Syrup
+Maple syrup
+
+Eggs/ Stabilizer: in pieces
+Eggs,seperate
+
+Dry/Flour: in gramms
+Flour,sift
+All purpose flour
+Coconut flakes
+Cocoa Powder
+Ground Hazelnuts
+Salt
+Semolina
+Corn Flour
+Cake Flour
+Wheat bran
+Rolled oats
+Starch
+
+Add-Ons & Aroma: in pieces
+Lime,zesz;squeeze;cut;wash
+Lemon,zest;squeeze;wash
+Orange,zest;squeeze;wash
+Dark Chocolate,chop;melt
+Milk Chocolate,chop;melt
+White Chocolate,chop;melt
+Couverture chocolate
+Mint,chop;wash
+Apricot,cut;wash
+Apple,cut;peel;wash
+Pear,cut;peel;wash
+Blueberries,wash
+Vanilla extract
+Carrots,wash;peel;grate
+Cinnamon
+Ground Cinnamon
+Nutmeg,ground
+Smarties
+Nutella
+Orea,crush;crumble
+Cookies,crush;crumble
+Marzipan carrots
+Apricot jam,spread
+Almonds
+Hazelnut
+Walnut
+Avocados
+Cashew nuts
+Pistachio
+Pumpkin,cook;bake
+Almond extract
+Butternut squash
+Ground ginger
+Tumeric
+Raisins
+Vanilla bean
+Strawberries
+Berries
+Banana
+Chocolate chips
+Gingerbread spice
+Sprinkle
+Food coloring,color
+Cherry
+Plum
+Grapefruit
+Clove
+Poppy seeds
+Cardamom
+Current
+
+Other:
+Gelatine leaf,soak in water
+Powdered Gelatine,mix in water
+Butter for greasing
